@@ -114,3 +114,14 @@ Confirm each point against at least two sources (BBC, her memoir *When I Fell Fr
 ## 5. Notes
 - The story is about a real, living person. Keep it respectful: no mocking tone, and no graphic gore (show the wound as a cartoon with a bandage).
 - After the edit, Higgsfield's **virality predictor** can score the finished cut for hook strength and points where viewers are likely to drop off, before you upload.
+
+---
+
+## 6. Production record (finished video)
+
+- **Final file:** 4:59, 1920×1080, 30fps, H.264 + AAC, burned-in subtitles. Download link (Higgsfield CDN): https://d2ol7oe51mr4n9.cloudfront.net/user_3L0rAY7tp1HbMk8HZy3gZKZMoHM/1705f93a-61d0-4c91-b27a-241b8bf993a4.mp4
+- **Style:** bold semi-flat 2D graphic-novel art (thick ink outlines, teal and orange palette, halftone texture). Juliane kept consistent by using the first style frame as a reference image.
+- **Visuals:** 62 Nano Banana 2 illustrations (2K); 13 of them animated into 10s clips with Kling 3.0 Turbo (1080p); the rest shown with a slow pan or zoom.
+- **Narration:** Seed Audio, "Arthur" preset voice, 10 sections. Subtitles are the script text, timed to the voice with faster-whisper word timestamps.
+- **Credits:** ~415 for this video (plus ~39 for the earlier realistic Kowloon test).
+- **Not included:** music. Add a track from the YouTube Audio Library at upload, about 20 dB under the voice.

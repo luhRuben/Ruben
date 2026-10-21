@@ -125,3 +125,18 @@ Confirm each point against at least two sources (BBC, her memoir *When I Fell Fr
 - **Narration:** Seed Audio, "Arthur" preset voice, 10 sections. Subtitles are the script text, timed to the voice with faster-whisper word timestamps.
 - **Credits:** ~415 for this video (plus ~39 for the earlier realistic Kowloon test).
 - **Not included:** music. Add a track from the YouTube Audio Library at upload, about 20 dB under the voice.
+
+## 7. Launch package
+
+| Asset | Link |
+|---|---|
+| **Main video v2 (upload this)**: opens on Juliane's terrified close-up | https://d2ol7oe51mr4n9.cloudfront.net/user_3L0rAY7tp1HbMk8HZy3gZKZMoHM/19977782-bc90-4c3e-a73f-a16729c99762.mp4 |
+| Main video v1 (original opening) | https://d2ol7oe51mr4n9.cloudfront.net/user_3L0rAY7tp1HbMk8HZy3gZKZMoHM/1705f93a-61d0-4c91-b27a-241b8bf993a4.mp4 |
+| Thumbnail, 1280×720 PNG, "2 MILES" | https://d2ol7oe51mr4n9.cloudfront.net/user_3L0rAY7tp1HbMk8HZy3gZKZMoHM/9fde95cc-7233-45ac-b5d5-fa08689bf019.png |
+| Short 1: "She fell 2 miles and lived" (33s) | https://d2ol7oe51mr4n9.cloudfront.net/user_3L0rAY7tp1HbMk8HZy3gZKZMoHM/d9f87ca2-cb2a-40cf-9ab2-c36b770361bf.mp4 |
+| Short 2: "The trick that saved her life" (57s) | https://d2ol7oe51mr4n9.cloudfront.net/user_3L0rAY7tp1HbMk8HZy3gZKZMoHM/f4ab44ca-5509-43fa-950c-fc2016119852.mp4 |
+| Short 3: "Day 8 alone in the Amazon" (44s) | https://d2ol7oe51mr4n9.cloudfront.net/user_3L0rAY7tp1HbMk8HZy3gZKZMoHM/7f5944f6-c76f-4229-82c2-9380a2760d93.mp4 |
+
+**Virality predictor (first 15s of v1):** hook score 28/100 for the first 3 seconds (weak), sustain score 94/100 (strong). Attention climbed steadily and peaked at about 10s, during the terrified close-up. v2 moves that shot to the very first frame. The predictor only accepts clips of 16 seconds or less, so the rest of the video wasn't scored.
+
+**Posting plan:** publish the main video first, then one Short per day for 3 days. Each Short ends with "Full story on the channel"; pin a comment linking to the main video.
